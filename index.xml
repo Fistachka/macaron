@@ -2,11 +2,11 @@
 <level>
   <owner>Fistachka</owner>
   <repo>macaron</repo>
-  <version>v1.0.0</version>
+  <version>v1.0.1</version>
   <next number="1" owner="stolbitsa" repo="subdominant"/>
   <readme>
-    <ru>c1b4bb0fdbb1e2a4f9bf261066ac39e517333afa70f762ef4f71ff4703f6a031</ru>
-    <en>c4003ef0bb76ba2f983df41bfbe05ff060e8fdb5e1b4fd857eace3a441b461ca</en>
+    <ru>3cacedc1e03453464b278728e49203ffc7c0f0b4401b55361e2d16f108ea4e80</ru>
+    <en>e55961d8886f61405ad4b91520771f6b66410bb0ce9e6e7ed4fbe31f6c6b7640</en>
   </readme>
   <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
   <exercise number="1">
