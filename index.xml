@@ -58,7 +58,6 @@
     <bpm>80</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>3</tonalities>
-    <video name="мак5.mp4" size="1670131" type="video/mp4" volume="1">acd56d0cd5897d586c0628da07c20b054a0b20fb25e193648de7084a449508c4</video>
     <notes>
       <note number="1" values="1,4,5,18" ticks="0" durationTicks="187" ppq="96" velocity="0.843"/>
       <note number="2" values="1,4,5,18" ticks="0" durationTicks="91" ppq="96" velocity="0.913"/>
