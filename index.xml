@@ -2,7 +2,7 @@
 <level>
   <owner>Fistachka</owner>
   <repo>macaron</repo>
-  <version>v1.0.2</version>
+  <version>v1.0.3</version>
   <next number="1" owner="stolbitsa" repo="subdominant"/>
   <readme>
     <ru>3cacedc1e03453464b278728e49203ffc7c0f0b4401b55361e2d16f108ea4e80</ru>
@@ -25,6 +25,7 @@
     <bpm>80</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>3</tonalities>
+    <video name="мак2.mp4" size="1935706" type="video/mp4" volume="1">7567c322557454cb51a0386f6996174db8d43998e24a8671169fd6d585412245</video>
     <notes>
       <note number="1" values="1,4,5,18" ticks="0" durationTicks="187" ppq="96" velocity="0.843"/>
       <note number="2" values="1,4,5,18" ticks="0" durationTicks="91" ppq="96" velocity="0.913"/>
@@ -35,6 +36,7 @@
     <bpm>80</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>3</tonalities>
+    <video name="мак3.mp4" size="1760451" type="video/mp4" volume="1">042d02512fd1ac711a4d079d88f99c9c61e0f35561fec3d9bb74d4fd67e12768</video>
     <notes>
       <note number="1" values="1,4,5,18" ticks="0" durationTicks="187" ppq="96" velocity="0.843"/>
       <note number="2" values="1,4,5,18" ticks="0" durationTicks="91" ppq="96" velocity="0.913"/>
@@ -45,6 +47,7 @@
     <bpm>80</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>3</tonalities>
+    <video name="мак4.mp4" size="1856611" type="video/mp4" volume="1">b48d2c925da2751e4256df8aa3827df2d65d6e5d7457985dacd724098b9ab364</video>
     <notes>
       <note number="1" values="1,4,5,18" ticks="0" durationTicks="187" ppq="96" velocity="0.843"/>
       <note number="2" values="1,4,5,18" ticks="0" durationTicks="91" ppq="96" velocity="0.913"/>
@@ -55,6 +58,7 @@
     <bpm>80</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>3</tonalities>
+    <video name="мак5.mp4" size="1670131" type="video/mp4" volume="1">acd56d0cd5897d586c0628da07c20b054a0b20fb25e193648de7084a449508c4</video>
     <notes>
       <note number="1" values="1,4,5,18" ticks="0" durationTicks="187" ppq="96" velocity="0.843"/>
       <note number="2" values="1,4,5,18" ticks="0" durationTicks="91" ppq="96" velocity="0.913"/>
@@ -67,6 +71,7 @@
     <bpm>80</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>3</tonalities>
+    <video name="мак6.mp4" size="1599814" type="video/mp4" volume="1">ebb953a7c66b12416a9dcf511a44c351651d4038b95696dd6e5cce6763179de8</video>
     <notes>
       <note number="1" values="1,4,5,18" ticks="0" durationTicks="187" ppq="96" velocity="0.843"/>
       <note number="2" values="1,4,5,18" ticks="0" durationTicks="91" ppq="96" velocity="0.913"/>
@@ -79,6 +84,7 @@
     <bpm>80</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>3</tonalities>
+    <video name="мак7.mp4" size="1843358" type="video/mp4" volume="1">3dc37399d457add16562106c62d2534d885ac5fe163187d0a8b843153e869f44</video>
     <notes>
       <note number="1" values="1,4,5,18" ticks="0" durationTicks="187" ppq="96" velocity="0.843"/>
       <note number="2" values="1,4,5,18" ticks="0" durationTicks="91" ppq="96" velocity="0.913"/>
@@ -91,6 +97,7 @@
     <bpm>80</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>3</tonalities>
+    <video name="мак8.mp4" size="2081858" type="video/mp4" volume="1">b481ef94e201d9f095eb752d19e8455396ae9e059ade05a420c33c6dd9d95e85</video>
     <notes>
       <note number="1" values="1,4,5,18" ticks="0" durationTicks="187" ppq="96" velocity="0.843"/>
       <note number="2" values="1,4,5,18" ticks="0" durationTicks="91" ppq="96" velocity="0.913"/>
@@ -103,6 +110,7 @@
     <bpm>80</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>3</tonalities>
+    <video name="мак9.mp4" size="2093361" type="video/mp4" volume="1">bd0b3c8f768700f9e89abe8be6e89b098f386dd5d496b256ff6688613626d3b7</video>
     <notes>
       <note number="1" values="1,4,5,18" ticks="0" durationTicks="187" ppq="96" velocity="0.843"/>
       <note number="2" values="1,4,5,18" ticks="0" durationTicks="91" ppq="96" velocity="0.913"/>
@@ -115,6 +123,7 @@
     <bpm>80</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>3</tonalities>
+    <video name="мак10.mp4" size="1667554" type="video/mp4" volume="1">7514213e415cc088827a16c0c72fdd01dc40f039fe824942521d52563524a3d1</video>
     <notes>
       <note number="1" values="1,4,5,18" ticks="0" durationTicks="187" ppq="96" velocity="0.843"/>
       <note number="2" values="1,4,5,18" ticks="0" durationTicks="91" ppq="96" velocity="0.913"/>
@@ -127,6 +136,7 @@
     <bpm>80</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>3</tonalities>
+    <video name="мак11.mp4" size="1485394" type="video/mp4" volume="1">02ebea49e9dca0da003121e0497ff5969e260471b63c639a05e36c20c9f8132c</video>
     <notes>
       <note number="1" values="1,4,5,18" ticks="0" durationTicks="187" ppq="96" velocity="0.843"/>
       <note number="2" values="1,4,5,18" ticks="0" durationTicks="91" ppq="96" velocity="0.913"/>
@@ -139,6 +149,7 @@
     <bpm>80</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>3</tonalities>
+    <video name="мак12.mp4" size="1821666" type="video/mp4" volume="1">ee0875e458a34e0e990f336f6ed0a8ce5b41937e685311ca920278b2ddf2c136</video>
     <notes>
       <note number="1" values="1,4,5,18" ticks="0" durationTicks="187" ppq="96" velocity="0.843"/>
       <note number="2" values="1,4,5,18" ticks="0" durationTicks="91" ppq="96" velocity="0.913"/>
