@@ -2,7 +2,7 @@
 <level>
   <owner>Fistachka</owner>
   <repo>macaron</repo>
-  <version>v1.0.13</version>
+  <version>v1.0.14</version>
   <next number="1" owner="stolbitsa" repo="subdominant"/>
   <readme>
     <ru>3cacedc1e03453464b278728e49203ffc7c0f0b4401b55361e2d16f108ea4e80</ru>
@@ -14,10 +14,12 @@
     <bpm>80</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>3</tonalities>
-    <video name="мак1.mp4" size="1979568" type="video/mp4" volume="1">75029faf03c6e0bd6affed9c7a2fdd30deddea446c96384713f8b4213085dd17</video>
+    <video name="мак1.mp4" size="1979568" type="video/mp4" volume="0.586">75029faf03c6e0bd6affed9c7a2fdd30deddea446c96384713f8b4213085dd17</video>
     <notes>
-      <note number="1" values="1,4,5,18" ticks="0" durationTicks="187" ppq="96" velocity="0.843"/>
-      <note number="2" values="1,4,5,18" ticks="0" durationTicks="91" ppq="96" velocity="0.913"/>
+      <note number="1" values="1,4,5,18" ticks="24" durationTicks="163" ppq="96" velocity="0.843"/>
+      <note number="2" values="1,4,5,18" ticks="24" durationTicks="193" ppq="96" velocity="0.913"/>
+      <note number="3" values="1,4,5,18" ticks="221" durationTicks="66" ppq="96" velocity="0.913"/>
+      <note number="4" values="1,4,5,18" ticks="221" durationTicks="162" ppq="96" velocity="0.827"/>
     </notes>
   </exercise>
   <exercise number="2">
