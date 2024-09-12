@@ -2,7 +2,7 @@
 <level>
   <owner>Fistachka</owner>
   <repo>macaron</repo>
-  <version>v1.0.16</version>
+  <version>v1.0.17</version>
   <next number="1" owner="stolbitsa" repo="subdominant"/>
   <readme>
     <ru>3cacedc1e03453464b278728e49203ffc7c0f0b4401b55361e2d16f108ea4e80</ru>
@@ -147,8 +147,9 @@
     <video name="мак11.mp4" size="1485394" type="video/mp4" volume="1">02ebea49e9dca0da003121e0497ff5969e260471b63c639a05e36c20c9f8132c</video>
     <notes>
       <note number="1" values="1" ticks="18" durationTicks="234" ppq="96" velocity="0.843"/>
-      <note number="2" values="18" ticks="213" durationTicks="180" ppq="96" velocity="0.913"/>
-      <note number="3" values="5" ticks="360" durationTicks="52" ppq="96" velocity="0.913"/>
+      <note number="2" values="18" ticks="92" durationTicks="192" ppq="96" velocity="0.913"/>
+      <note number="3" values="4" ticks="212" durationTicks="123" ppq="96" velocity="0.913"/>
+      <note number="4" values="5" ticks="360" durationTicks="52" ppq="96" velocity="0.913"/>
     </notes>
   </exercise>
   <exercise number="12">
